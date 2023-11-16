@@ -1,5 +1,11 @@
 ### Hi there 👋
-## I’m Fronted Developer. Vue. 
+## I’m Fronted developer and I like it. Vue. 
+
+### How you contact me: 
+- [Email:] kalinenkomd@gmail.com
+- t.me/Fllorinss
+
+### I have a career in medicine but want to gain experience in development. 
 
 <!--
 **Fllorins/Fllorins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
