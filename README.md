@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Svetlana!!
-## I’m Fronted developer and I like it.
+## I’m front-end developer and I like it.
 
 ### How you contact me: 
 - kalinenkomd@gmail.com
